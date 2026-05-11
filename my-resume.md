@@ -17,23 +17,6 @@ Profiles:
 - I am a results-oriented IT Consultant and Solution Architect with over 7 years of experience specializing in designing, implementing, migrating, and managing robust, scalable, and cost-efficient cloud infrastructures. My expertise spans IT infrastructure management, Linux systems administration, and delivering tailored cloud solutions for global clients.
 
 
-## Education
-
-### Mahendra Engineering College
-
-Bachelor, Computer Science, Score: null, Sep 2016–Jul 2019
-
-URL: http://www.mahendra.info/
-
-Courses: Discrete Methods in Computer Science, Programming Language Concepts, Data Structures and Object-Oriented Design, Operating Systems, Computer Architecture, Database Systems, Computer Networking, Introduction to the Theory of Computing
-
-Summary: 
-- **Dropped out** of college.
-- Developed proficiency in programming languages such as Java, C++, and Python
-- Gained hands-on experience in software development through various projects and assignments
-- Strong communication and teamwork skills acquired through group projects and presentations
-
-
 ## Work
 
 ### Cloud Consultant & Trainer
