@@ -17,7 +17,7 @@ content:
     headline: Cloud Solutions Architect & Consultant 
     phone: "+91 9080314481"
     email: n.arya2k21@gmail.com
-    url: https://www.iamarya.com
+    url: https://iamarya2k24.github.io/
     # All summary fields supports a limited rich text capabilities in markdown
     # syntax:
     #
@@ -88,6 +88,7 @@ content:
       summary: |
         - Cloud Strategy & Architecture (AWS, Azure): Designing resilient, secure, and scalable cloud environments utilizing services such as EC2, S3, Lambda, VPC (AWS) and Virtual Machines, Azure Functions, Azure Networking (Azure).
         - Cloud Migration: Planning and executing seamless migrations with minimal disruption.
+        - AWS Startup Funding: Help startups qualify for AWS Credits funding.
         - Linux Infrastructure Management: Deep expertise in administration, troubleshooting, and performance tuning.
         - DevOps & Automation: Implementing CI/CD pipelines, Infrastructure as Code (IaC) using tools like Docker, Kubernetes, Terraform, and Ansible.
         - Problem Solving & Optimization: Identifying technical challenges and optimizing systems for performance and cost, resulting upto 20% reduction in cloud expenditure.
@@ -98,6 +99,7 @@ content:
         - Mentorship
         - Linux Administration
         - DevOps
+        - Funding
     - name: Minfy Technologies
       url: https://www.minfytech.com/
       startDate: Oct 1, 2022
