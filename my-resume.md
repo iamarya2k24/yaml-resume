@@ -1,12 +1,12 @@
-# Arya Navneet
+# Arya Navneet (She/Her)
 
 Headline: Cloud Solutions Architect & Consultant
 
 - Email: n.arya2k21@gmail.com
-- Phone: +91 9080314481
+- Phone: +91 8220305497
 - URL: https://iamarya2k24.github.io/
 
-Location: Manikonda, Hyderabad, Telangana, India, 5000032
+Location: Chrompet, Chennai, Tamil Nadu, India, 600044
 
 Profiles: 
 - LinkedIn: [@meta-arya](https://www.linkedin.com/in/meta-arya/)
@@ -17,15 +17,51 @@ Profiles:
 - I am a results-oriented IT Consultant and Solution Architect with over 7 years of experience specializing in designing, implementing, migrating, and managing robust, scalable, and cost-efficient cloud infrastructures. My expertise spans IT infrastructure management, Linux systems administration, and delivering tailored cloud solutions for global clients.
 
 
+## Education
+
+### Nirman High School - CBSE
+
+High School, 10th STD, May 2012–Jul 2013
+
+### Divine Child High School - CBSE
+
+High School, 12th STD, May 2014–Jul 2015
+
 ## Work
 
-### Cloud Consultant & Trainer
+### Customer Service Professional
+
+FOUNDEVER CRM INDIA PRIVATE LIMITED, 28th July 2025–19th Sept 2025
+
+URL: https://www.foundever.com
+
+Keywords: Customer support, HIPAA, US Healthcare
+
+Summary: 
+- Worked for United Healthcare (Client)
+- Followed HIPAA and other compliances and answered the members queries and assited them with resolution.
+
+
+### Senior Representative, Customer Solutions
+
+Synchrony International Services Private Limited, Aug 2024–Jan 2025
+
+URL: https://www.synchrony.com/
+
+Keywords: Customer support, Finance, Process Legal Requests
+
+Summary: 
+- Worked as a backend representative and managed high risk legal requests from bank customers.
+- Conducted C&D as per the bank policy and legal framework.
+
+
+### Freelance Cloud Consultant & Trainer
 
 Bitsflippin, Inc, Jul 2024–Present
 
 URL: https://www.bitsflippin.xyz
 
-Keywords: Cloud Migration, Cloud Consulting, AWS, Mentorship, Linux Administration, DevOps, Funding
+Keywords: Cloud Migration, Cloud Consulting, AWS, Mentorship, Linux Administration, DevOps, Startup Funding
 
 Summary: 
 - Cloud Strategy & Architecture (AWS, Azure): Designing resilient, secure, and scalable cloud environments utilizing services such as EC2, S3, Lambda, VPC (AWS) and Virtual Machines, Azure Functions, Azure Networking (Azure).
@@ -64,32 +100,6 @@ Summary:
 - Define common development processes, platform and tools usage for automation solutions.
 - Serve as a systems and automation evangelist providing thought leadership, participating in conferences, authoring white papers, etc.
 - Provide technical leadership, project guidance in various deployment & monitoring automation technology areas.
-
-
-### Senior Representative, Customer Solutions
-
-Synchrony International Services Private Limited, Aug 2024–Jan 2025
-
-URL: https://www.synchrony.com/
-
-Keywords: Customer support, Finance, Process Legal Requests
-
-Summary: 
-- Worked as a backend representative and managed high risk legal requests from bank customers.
-- Conducted C&D as per the bank policy and legal framework.
-
-
-### Customer Service Professional
-
-FOUNDEVER CRM INDIA PRIVATE LIMITED, 28th July 2025–19th Sept 2025
-
-URL: https://www.foundever.com
-
-Keywords: Customer support, HIPAA, US Healthcare
-
-Summary: 
-- Worked for United Healthcare (Client)
-- Followed HIPAA and other compliances and answered the members queries and assited them with resolution.
 
 
 ## Languages
